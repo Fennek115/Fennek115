@@ -1,12 +1,12 @@
-### > user_info --fetch
+### > neofetch --user fennek115
 
-```bash
-#!/bin/bash
-# Vulp3x0 | Cybersecurity & Cloud Security Enthusiast
-
-user="Fennek115"
-role="Red Teamer in Training / DevSecOps"
-os="Arch Linux (Hyprland)"
-current_focus="Azure Pentesting & Automations"
-
-echo "Bienvenido a mi bitácora digital. La simplicidad es la máxima sofisticación."
+```yaml
+user:      Fennek115 @ Vulp3x0
+--------------------------------
+OS:        GNU/Linux
+Role:      Cybersecurity agent
+Uptime:    227.760 Hrs
+Shell:     Bash
+Theme:     Dark / Minimal / Hardened
+Goals:     [Cloud Security, DevSecOps, Pentest]
+Project:   V.I.T.R.I.O.L
