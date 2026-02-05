@@ -1,12 +1,12 @@
-### > neofetch --user fennek115
+### > ./init_cycle.sh
 
-```yaml
-user:      Fennek115 @ Vulp3x0
---------------------------------
-OS:        GNU/Linux
-Role:      Cybersecurity agent
-Uptime:    227.760 Hrs
-Shell:     Bash
-Theme:     Dark / Minimal / Hardened
-Goals:     [Cloud Security, DevSecOps, Pentest]
-Project:   V.I.T.R.I.O.L
+```mermaid
+graph LR
+    A[🔨 Build] -->|DevSecOps| B(⚡ Break);
+    B -->|Pentest| C{🔍 Analyze};
+    C -->|Logseq| D[📝 Document];
+    D -->|Reflect| A;
+    style A fill:#0d1117,stroke:#333,stroke-width:2px,color:#fff
+    style B fill:#0d1117,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#0d1117,stroke:#333,stroke-width:2px,color:#fff
+    style D fill:#0d1117,stroke:#333,stroke-width:2px,color:#fff
