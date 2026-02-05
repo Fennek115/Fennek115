@@ -7,7 +7,7 @@
   </p>
 
   <p>
-    <em>Red Teaming · DevSecOps · Filosofía Hacker</em><br>
+    <em>Red Teaming · DevSecOps · Filosofía · Hacking</em><br>
     Buscando la transmutación del código a través del fallo.
   </p>
 
