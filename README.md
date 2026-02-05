@@ -1,12 +1,37 @@
-### > ./init_cycle.sh
+<div align="center">
 
-```mermaid
-graph LR
-    A[🔨 Build] -->|DevSecOps| B(⚡ Break);
-    B -->|Pentest| C{🔍 Analyze};
-    C -->|Logseq| D[📝 Document];
-    D -->|Reflect| A;
-    style A fill:#0d1117,stroke:#333,stroke-width:2px,color:#fff
-    style B fill:#0d1117,stroke:#333,stroke-width:2px,color:#fff
-    style C fill:#0d1117,stroke:#333,stroke-width:2px,color:#fff
-    style D fill:#0d1117,stroke:#333,stroke-width:2px,color:#fff
+  <h3>❝ Visita Interiora Terrae Rectificando Invenies Occultum Lapidem ❞</h3>
+
+  <p>
+    <code>BUILD</code> ── ⚡ ── <code>BREAK</code> ── 🔍 ── <code>REFLECT</code>
+  </p>
+
+  <p>
+    <em>Ciberseguridad · DevSecOps · Filosofía Hacker</em><br>
+    Buscando la transmutación del código a través del fallo.
+  </p>
+
+  <br>
+
+  <a href="https://archlinux.org" target="_blank">
+    <img src="https://img.shields.io/badge/Arch-000000?style=for-the-badge&logo=archlinux&logoColor=white" height="25" alt="Arch Linux" />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" height="25" alt="Python" />
+  </a>
+  <a href="https://azure.microsoft.com" target="_blank">
+    <img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=white" height="25" alt="Azure" />
+  </a>
+  <a href="https://logseq.com" target="_blank">
+    <img src="https://img.shields.io/badge/Logseq-000000?style=for-the-badge&logo=logseq&logoColor=white" height="25" alt="Logseq" />
+  </a>
+
+  <br><br>
+
+  <p>
+    🔭 <a href="https://github.com/Fennek115/Ouroboros-proyect"><strong>Project Ouroboros</strong></a> (DevSecOps Pipeline)
+    &nbsp; | &nbsp;
+    📜 <a href="https://fennek115.github.io"><strong>Project Tabula</strong></a> (Digital Garden)
+  </p>
+
+</div>
