@@ -7,8 +7,8 @@
   </p>
 
   <p>
-    <em>Red Teaming · DevSecOps · Filosofía · Hacking</em><br>
-    Buscando la transmutación del código a través del fallo.
+    <em>Musica · Filosofía · Hacking</em><br>
+    Quiero entender no creer, no debemos afirmar lo que no podemos demostrar.
   </p>
 
   <br>
